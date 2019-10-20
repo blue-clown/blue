@@ -1,3 +1,3 @@
 # blue
 #Hello World!
-#this is my first time github . excited!excited！excited！
+#this is my first time use Github . excited!excited！excited！
